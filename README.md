@@ -13,3 +13,8 @@ This is a video that explains a program of a breakdancer.
 This is a video that explains a program of a animals moving around.
 
 [Teaching Programming Portfolio - Lesson Plan](https://youtu.be/ZsDbEbnrAC8)
+
+
+This is a video that explains a program of a mouse drawing a octagon.
+
+[Teaching Programming Portfolio - Lesson Plan](https://www.youtube.com/watch?v=FgMXgBQ8NEs)
