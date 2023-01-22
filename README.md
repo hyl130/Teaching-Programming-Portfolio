@@ -24,3 +24,7 @@ This is a video that explains a program of a monkey catching banana.
 
 [Monkey catching banana](https://youtu.be/4sjfNEWKtpY)
 
+
+This is a video that explains a program of drawing different shapes.
+
+[Drawing different shapes](https://youtu.be/u23njaIWk1k)
