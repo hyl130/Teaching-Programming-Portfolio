@@ -28,3 +28,8 @@ This is a video that explains a program of a monkey catching banana.
 This is a video that explains a program of drawing different shapes.
 
 [Drawing different shapes](https://youtu.be/u23njaIWk1k)
+
+
+This is a video that explains a program of using conditional loops through the soccer ball.
+
+[Catch the Soccer Ball](https://youtu.be/U7AoduDjOWA)
