@@ -33,3 +33,9 @@ This is a video that explains a program of drawing different shapes.
 This is a video that explains a program of using conditional loops through the soccer ball.
 
 [Catch the Soccer Ball](https://youtu.be/U7AoduDjOWA)
+
+
+This is a video that explains a program that moves a ball and outputing the score using if and else statements.
+
+[Move the Ball (If / Else statements)](https://youtu.be/CXaYl4_Mryg)
+
