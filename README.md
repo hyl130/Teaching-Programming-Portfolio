@@ -42,4 +42,9 @@ This is a video that explains a program that moves a ball and outputing the scor
 
 This is a video that explains a program that uses nested if else to make the penguin swim.
 
-[Penguin Swimming (Nested If Else)](https://youtu.be/eGdWdk9Jpw0 )
+[Penguin Swimming (Nested If Else)](https://youtu.be/eGdWdk9Jpw0)
+
+
+This is a video that explains a program that uses compound conditions to find the treasure.
+
+[Treasure hunting (Compound conditions)](https://youtu.be/9P5cEqvDq6E)
