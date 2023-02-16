@@ -39,3 +39,7 @@ This is a video that explains a program that moves a ball and outputing the scor
 
 [Move the Ball (If / Else statements)](https://youtu.be/CXaYl4_Mryg)
 
+
+This is a video that explains a program that uses nested if else to make the penguin swim.
+
+[Penguin Swimming (Nested If Else)](https://youtu.be/eGdWdk9Jpw0 )
