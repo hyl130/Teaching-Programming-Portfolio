@@ -48,3 +48,8 @@ This is a video that explains a program that uses nested if else to make the pen
 This is a video that explains a program that uses compound conditions to find the treasure.
 
 [Treasure hunting (Compound conditions)](https://youtu.be/9P5cEqvDq6E)
+
+
+This is a video that explains a program that uses abstraction to draw the Sun and a flower on the grass
+
+[Draw the Sun and a flower on the grass using Abstraction](https://youtu.be/6CiTN4N0kIA)
